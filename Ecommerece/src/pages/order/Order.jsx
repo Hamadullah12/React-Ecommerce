@@ -1,8 +1,7 @@
 import React from "react";
 import Layout from "../../components/layout/Layout";
 
-function Home() {
-  return <Layout>Home</Layout>;
+function Order() {
+  return <Layout>Order</Layout>;
 }
-
-export default Home;
+export default Order;
